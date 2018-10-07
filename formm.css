@@ -1,0 +1,31 @@
+	
+
+body{
+	border: solid blue;
+	border-top-width: 50px;
+	border-radius: 20px;
+	background-color: #8889;
+}
+
+
+
+	div#header{
+				text-align: center;
+			
+				font-style: italic;
+				font-size: 100%;
+    margin:5px;margin-bottom:15px;padding:50px;
+
+    background-color:white;
+     color:white;background-color:#562;margin-bottom:5px;
+     border-radius: 20px;
+ }
+  div#header img{
+				width:150px; 
+				height:150px;
+				float: left;
+				padding-top: 0px;
+			border-radius: 60px;
+			}
+	form{
+		t
